@@ -13,7 +13,6 @@ router.post("/product", () => {});
 router.delete("/product/:id", () => {});
 
 //Update
-
 router.get("/update", () => {});
 router.get("/update/:id", () => {});
 router.put("/update/:id", () => {});
@@ -21,7 +20,6 @@ router.post("/update", () => {});
 router.delete("/update/:id", () => {});
 
 //Update Pointes
-
 router.get("/updatepoint", () => {});
 router.get("/updatepoint/:id", () => {});
 router.put("/updatepoint/:id", () => {});
